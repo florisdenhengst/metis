@@ -1,0 +1,12 @@
+name = "Metis"
+license = "MIT"
+licenselink = "https://github.com/florisdenhengst/metis/blob/master/LICENSE.md"
+description = "Minimal Hugo theme for academics"
+homepage = "https://github.com/florisdenhengst/metis"
+tags = ["minimal", "blog", "personal", "clean", "simple", "starter", "minimalist", "academia", academic"]
+features = ["blog", "mathjax"]
+min_version = "0.18"
+
+[author]
+  name = "Floris den Hengst"
+  homepage = "https://florisdenhengst.github.io"
