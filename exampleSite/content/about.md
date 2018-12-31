@@ -1,13 +1,12 @@
 ---
 title: About Metis
-author: Floris den Hengst
 ---
 
 **Metis** is a simple Hugo theme for academics, it features a blog section with [MathJax](https://www.mathjax.org/).
 It is very, very minimal and you probably want to change it up a bit.
 
 The theme is named after [Metis](https://www.greekmythology.com/Titans/Metis/metis.html), the
-Titaness of wisdom, skill or craft who helped Zeus to free his siblings from his fathers' stomach
+Titaness of wisdom, skill and craft who helped Zeus to free his siblings from his fathers' stomach
 by creating a potion causing him to vomit them out.
 
 # config.toml
@@ -57,6 +56,6 @@ There are two layout files under `layouts/partials/` that you may want to overri
 
 There are only two CSS files in `static/css/fonts.css` and `static/css/style.css` which you may alter as you please.
 
-# Achknowledgements
+# Acknowledgements
 
 This theme wouldn't have been possible without the awesome Hugo documentation and the excellent [Xmin](https://xmin.yihui.name/) theme as an example.
