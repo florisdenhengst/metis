@@ -20,17 +20,23 @@ footnotereturnlinkcontents = "↩"
     url = "/about/"
     weight = 2
 [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+[[menu.main]]
     name = "Categories"
     url = "/categories/"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    weight = 5
 
 [params]
     description = "A website built through Hugo."
-    footer = "&copy; [Floris den Hengst](https://florisdenhengst.github.io) 2018 -- 2019 | [Github](https://github.com/florisdenhengst)"
+    footer = [
+        "[<img src='https://simpleicons.org/icons/rss.svg'>](/index.xml)",
+        "[<img src='https://simpleicons.org/icons/github.svg'>](https://github.com/florisdenhengst/metis)",
+        "[<img src='https://simpleicons.org/icons/linkedin.svg'>](https://www.linkedin.com/in/floris-den-hengst-06ab7534/)",
+        "| &copy; [Floris den Hengst](https://florisdenhengst.github.io) 2018 -- 2019", 
+        ]
