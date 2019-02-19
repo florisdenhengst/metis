@@ -33,6 +33,7 @@ img, figure, iframe, video {
 figure, iframe, video {
   display: block;
   margin: 30px auto 30px;
+  text-align:center
 }
 main { hyphens: auto; }
 blockquote {
