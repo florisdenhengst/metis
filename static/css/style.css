@@ -28,20 +28,20 @@ a {
       color: black;
     }
 }
-@media (prefers-color-scheme: black) {
+@media (prefers-color-scheme: dark) {
     body {
-      background-color: black;
+      background-color: #1b1b1b;
       color: #fffff8;
     }
     hr {
       color: #ddd;
     }
-    code { background: black; }
+    code { background: #1b1b1b; }
     pre code { background: none; }
     a {
       color: #fffff8;
   }
-}
+
 
 /* header and footer areas */
 .menu { padding: 0; }
