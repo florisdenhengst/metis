@@ -1,9 +1,22 @@
+body {
+  max-width: 900px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5em;
+  background-color: #fffff8;
+
+}
+hr {
+  color: #ddd;
+}
+code { background: #f9f9f9; }
+pre code { background: none; }
+a {
+  color: black;
+}
+
 @media (prefers-color-scheme: light) {
     body {
-      max-width: 900px;
-      margin: auto;
-      padding: 1em;
-      line-height: 1.5em;
       background-color: #fffff8;
     }
     hr {
@@ -17,10 +30,6 @@
 }
 @media (prefers-color-scheme: black) {
     body {
-      max-width: 900px;
-      margin: auto;
-      padding: 1em;
-      line-height: 1.5em;
       background-color: black;
       color: #fffff8;
     }
@@ -31,7 +40,7 @@
     pre code { background: none; }
     a {
       color: #fffff8;
-    }
+    
 }
 
 /* header and footer areas */
