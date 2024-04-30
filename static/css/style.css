@@ -77,10 +77,10 @@ figure, iframe, video {
   text-align:center
 }
 main { hyphens: auto; }
-main p {
+body p {
     padding-left: 20px;
 }
-main ul {
+body ul {
     padding-left: 30px;
 }
 blockquote {
